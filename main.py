@@ -7,7 +7,7 @@ CHARACTER_SCALLING = 1
 TILE_SCALING = 0.5
 PLAYER_MOVEMENT_SPEED = 5
 GRAViTY = 5
-PLAYER_JUMP_SPEED = 40
+PLAYER_JUMP_SPEED = 30
 
 class Box(arcade.Sprite):
     def __init__(self):
